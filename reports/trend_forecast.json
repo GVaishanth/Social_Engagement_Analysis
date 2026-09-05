@@ -1,0 +1,112 @@
+[
+  {
+    "keyword": "quiet quitting",
+    "current_level": 41.1,
+    "level_60d_mean": 39.0,
+    "forecast_14d_end": 35.8,
+    "forecast_slope_per_day": -0.133,
+    "recent_slope_per_day": -0.049,
+    "slope_90d_per_day": -0.038,
+    "momentum_z": 1.44,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "brain rot",
+    "current_level": 52.5,
+    "level_60d_mean": 47.8,
+    "forecast_14d_end": 49.7,
+    "forecast_slope_per_day": -0.078,
+    "recent_slope_per_day": 0.108,
+    "slope_90d_per_day": 0.114,
+    "momentum_z": 1.42,
+    "status": "RISING"
+  },
+  {
+    "keyword": "hikikomori",
+    "current_level": 17.9,
+    "level_60d_mean": 16.5,
+    "forecast_14d_end": 20.2,
+    "forecast_slope_per_day": 0.045,
+    "recent_slope_per_day": 0.085,
+    "slope_90d_per_day": 0.019,
+    "momentum_z": 0.38,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "oldest daughter syndrome",
+    "current_level": 34.9,
+    "level_60d_mean": 31.9,
+    "forecast_14d_end": 37.9,
+    "forecast_slope_per_day": 0.061,
+    "recent_slope_per_day": 0.161,
+    "slope_90d_per_day": 0.112,
+    "momentum_z": 0.21,
+    "status": "RISING"
+  },
+  {
+    "keyword": "main character syndrome",
+    "current_level": 30.9,
+    "level_60d_mean": 29.6,
+    "forecast_14d_end": 39.3,
+    "forecast_slope_per_day": 0.166,
+    "recent_slope_per_day": 0.056,
+    "slope_90d_per_day": 0.023,
+    "momentum_z": -0.16,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "phone anxiety",
+    "current_level": 38.2,
+    "level_60d_mean": 37.5,
+    "forecast_14d_end": 45.2,
+    "forecast_slope_per_day": 0.143,
+    "recent_slope_per_day": 0.062,
+    "slope_90d_per_day": 0.017,
+    "momentum_z": -0.38,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "situationship",
+    "current_level": 58.9,
+    "level_60d_mean": 60.2,
+    "forecast_14d_end": 65.0,
+    "forecast_slope_per_day": 0.124,
+    "recent_slope_per_day": 0.06,
+    "slope_90d_per_day": -0.014,
+    "momentum_z": -0.59,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "social battery",
+    "current_level": 35.1,
+    "level_60d_mean": 37.2,
+    "forecast_14d_end": 45.6,
+    "forecast_slope_per_day": 0.219,
+    "recent_slope_per_day": 0.029,
+    "slope_90d_per_day": -0.029,
+    "momentum_z": -1.22,
+    "status": "STEADY"
+  },
+  {
+    "keyword": "money dysmorphia",
+    "current_level": 26.1,
+    "level_60d_mean": 25.5,
+    "forecast_14d_end": 26.7,
+    "forecast_slope_per_day": 0.008,
+    "recent_slope_per_day": 0.066,
+    "slope_90d_per_day": 0.08,
+    "momentum_z": -1.39,
+    "status": "RISING"
+  },
+  {
+    "keyword": "bed rotting",
+    "current_level": 62.8,
+    "level_60d_mean": 67.0,
+    "forecast_14d_end": 70.9,
+    "forecast_slope_per_day": 0.173,
+    "recent_slope_per_day": 0.021,
+    "slope_90d_per_day": -0.075,
+    "momentum_z": -1.4,
+    "status": "MAINSTREAM"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "top_plays": [
+    {
+      "topic": "Social Anxiety",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "midday",
+      "n_posts": 1,
+      "expected_k": 0.02449,
+      "expected_engagement_rate": 0.08993,
+      "success_index": 1.144
+    },
+    {
+      "topic": "Family Pressure",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "morning",
+      "n_posts": 3,
+      "expected_k": 0.02464,
+      "expected_engagement_rate": 0.08763,
+      "success_index": 1.141
+    },
+    {
+      "topic": "Money Struggles",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "morning",
+      "n_posts": 2,
+      "expected_k": 0.02425,
+      "expected_engagement_rate": 0.08819,
+      "success_index": 1.13
+    },
+    {
+      "topic": "Social Anxiety",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "evening",
+      "n_posts": 1,
+      "expected_k": 0.02407,
+      "expected_engagement_rate": 0.08819,
+      "success_index": 1.124
+    },
+    {
+      "topic": "Money Struggles",
+      "format": "Reel",
+      "duration_bucket": "<=20s",
+      "time_slot": "evening",
+      "n_posts": 1,
+      "expected_k": 0.02377,
+      "expected_engagement_rate": 0.09038,
+      "success_index": 1.122
+    },
+    {
+      "topic": "Self-Image & Comparison",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "morning",
+      "n_posts": 1,
+      "expected_k": 0.02228,
+      "expected_engagement_rate": 0.08618,
+      "success_index": 1.057
+    },
+    {
+      "topic": "Dating & Situationships",
+      "format": "Reel",
+      "duration_bucket": "21-30s",
+      "time_slot": "morning",
+      "n_posts": 2,
+      "expected_k": 0.02157,
+      "expected_engagement_rate": 0.09006,
+      "success_index": 1.047
+    },
+    {
+      "topic": "Family Pressure",
+      "format": "Carousel",
+      "duration_bucket": "n/a",
+      "time_slot": "evening",
+      "n_posts": 1,
+      "expected_k": 0.02212,
+      "expected_engagement_rate": 0.08464,
+      "success_index": 1.046
+    }
+  ],
+  "guidance": {
+    "best_hook_by_format": {
+      "Carousel": "Text Hook",
+      "Reel": "Visual Hook",
+      "Static Post": "Text Hook"
+    },
+    "best_caption_style": "Question",
+    "best_time_slot": "morning",
+    "median_k_by_topic": {
+      "College & Hostel Life": 0.0165,
+      "Dating & Situationships": 0.0209,
+      "Family Pressure": 0.0246,
+      "Money Struggles": 0.0257,
+      "Self-Image & Comparison": 0.0209,
+      "Social Anxiety": 0.0271
+    }
+  }
+}

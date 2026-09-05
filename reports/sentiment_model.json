@@ -1,0 +1,85 @@
+{
+  "algorithm": "TF-IDF (1-2g) + Logistic Regression (balanced)",
+  "train_comments": 2684,
+  "test_comments": 672,
+  "accuracy": 0.942,
+  "precision_relatable": 0.9683,
+  "recall_relatable": 0.9313,
+  "f1_relatable": 0.9494,
+  "confusion_matrix": [
+    [
+      267,
+      12
+    ],
+    [
+      27,
+      366
+    ]
+  ],
+  "confusion_labels": [
+    "neutral",
+    "relatable"
+  ],
+  "report": {
+    "neutral": {
+      "precision": 0.9081632653061225,
+      "recall": 0.956989247311828,
+      "f1-score": 0.9319371727748691,
+      "support": 279.0
+    },
+    "relatable": {
+      "precision": 0.9682539682539683,
+      "recall": 0.9312977099236641,
+      "f1-score": 0.9494163424124513,
+      "support": 393.0
+    },
+    "accuracy": 0.9419642857142857,
+    "macro avg": {
+      "precision": 0.9382086167800454,
+      "recall": 0.9441434786177461,
+      "f1-score": 0.9406767575936602,
+      "support": 672.0
+    },
+    "weighted avg": {
+      "precision": 0.9433055960479431,
+      "recall": 0.9419642857142857,
+      "f1-score": 0.9421593657325624,
+      "support": 672.0
+    }
+  },
+  "top_relatable_triggers": [
+    "my",
+    "me",
+    "to",
+    "too",
+    "personal",
+    "felt that",
+    "fr",
+    "accurate",
+    "felt",
+    "it",
+    "painfully",
+    "life",
+    "of",
+    "so me",
+    "too accurate"
+  ],
+  "top_neutral_triggers": [
+    "true",
+    "page",
+    "haha",
+    "lol ok",
+    "edit",
+    "macha",
+    "btw",
+    "part",
+    "agree",
+    "facts",
+    "superb",
+    "sis",
+    "dm",
+    "underrated",
+    "follow"
+  ],
+  "holdout_report_text": "              precision    recall  f1-score   support\n\n     neutral       0.91      0.96      0.93       279\n   relatable       0.97      0.93      0.95       393\n\n    accuracy                           0.94       672\n   macro avg       0.94      0.94      0.94       672\nweighted avg       0.94      0.94      0.94       672\n"
+}

@@ -1,0 +1,14 @@
+{
+  "holdout_r2_logspace": 0.773,
+  "holdout_mae_logspace": 0.07,
+  "cv_r2_logspace_5fold": 0.66,
+  "feature_importance": {
+    "format": 0.7029065325547454,
+    "topic": 0.1525586578301732,
+    "caption_style": 0.048553428189710694,
+    "day": 0.04516479231841093,
+    "time_slot": 0.022892467354147752,
+    "duration_bucket": 0.022496538588175723,
+    "hook_type": 0.005427583164636429
+  }
+}

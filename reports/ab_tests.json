@@ -1,0 +1,150 @@
+{
+  "E1_Format_Reel_vs_Carousel": {
+    "variant_a": "Reel",
+    "variant_b": "Carousel",
+    "metric": "log_reach",
+    "n_a": 36,
+    "mean_a": 9.27533,
+    "n_b": 18,
+    "mean_b": 7.74728,
+    "rel_lift": 0.1972,
+    "welch_t": 5.304,
+    "p_welch": 0.0,
+    "mannwhitney_p": 3e-05,
+    "cohens_d": 1.243,
+    "significant": true,
+    "also_engagement_rate": {
+      "n_a": 36,
+      "mean_a": 0.08849,
+      "n_b": 18,
+      "mean_b": 0.09149,
+      "rel_lift": -0.0328,
+      "welch_t": -1.286,
+      "p_welch": 0.20545,
+      "mannwhitney_p": 0.17162,
+      "cohens_d": -0.341,
+      "significant": false
+    },
+    "also_save_rate": {
+      "n_a": 36,
+      "mean_a": 0.01509,
+      "n_b": 18,
+      "mean_b": 0.02287,
+      "rel_lift": -0.3401,
+      "welch_t": -5.101,
+      "p_welch": 1e-05,
+      "mannwhitney_p": 2e-05,
+      "cohens_d": -1.477,
+      "significant": true
+    },
+    "also_share_rate": {
+      "n_a": 36,
+      "mean_a": 0.01094,
+      "n_b": 18,
+      "mean_b": 0.00852,
+      "rel_lift": 0.2838,
+      "welch_t": 1.921,
+      "p_welch": 0.06586,
+      "mannwhitney_p": 0.03564,
+      "cohens_d": 0.622,
+      "significant": true
+    },
+    "note": "Reels drive distribution (reach); Carousels drive save-rate. Engagement-rate-only A/B tests hide this split."
+  },
+  "E2_Hook_Visual_vs_Text": {
+    "metric": "engagement_rate",
+    "variant_a": "Visual Hook",
+    "variant_b": "Text Hook",
+    "n_a": 23,
+    "mean_a": 0.09086,
+    "n_b": 43,
+    "mean_b": 0.08058,
+    "rel_lift": 0.1275,
+    "welch_t": 3.148,
+    "p_welch": 0.00265,
+    "mannwhitney_p": 0.00471,
+    "cohens_d": 0.754,
+    "significant": true
+  },
+  "E3_ReelLength_Short_vs_Long": {
+    "metric": "retention_rate",
+    "variant_a": "short <=30s",
+    "variant_b": "long >30s",
+    "n_a": 29,
+    "mean_a": 0.69686,
+    "n_b": 7,
+    "mean_b": 0.44871,
+    "rel_lift": 0.553,
+    "welch_t": 7.857,
+    "p_welch": 8e-05,
+    "mannwhitney_p": 5e-05,
+    "cohens_d": 4.18,
+    "significant": true
+  },
+  "E4_Time_Evening_vs_Day": {
+    "variant_a": "evening 18-22",
+    "variant_b": "day 9-14",
+    "metric": "log_reach",
+    "n_a": 24,
+    "mean_a": 9.21942,
+    "n_b": 42,
+    "mean_b": 8.20957,
+    "rel_lift": 0.123,
+    "welch_t": 2.713,
+    "p_welch": 0.01045,
+    "mannwhitney_p": 0.01029,
+    "cohens_d": 0.785,
+    "significant": true,
+    "also_engagement_rate": {
+      "n_a": 24,
+      "mean_a": 0.07842,
+      "n_b": 42,
+      "mean_b": 0.08745,
+      "rel_lift": -0.1032,
+      "welch_t": -2.214,
+      "p_welch": 0.03418,
+      "mannwhitney_p": 0.04776,
+      "cohens_d": -0.653,
+      "significant": true
+    },
+    "also_followers_gained": {
+      "n_a": 24,
+      "mean_a": 226.41667,
+      "n_b": 42,
+      "mean_b": 49.90476,
+      "rel_lift": 3.537,
+      "welch_t": 2.112,
+      "p_welch": 0.04523,
+      "mannwhitney_p": 0.20523,
+      "cohens_d": 0.703,
+      "significant": true
+    }
+  },
+  "E5_CaptionStyle_ANOVA": {
+    "metric": "viral_coefficient",
+    "group_means": {
+      "Listicle": 0.01995,
+      "Question": 0.02391,
+      "Storytelling": 0.01856
+    },
+    "f_stat": 3.678,
+    "p_anova": 0.03086,
+    "kruskal_p": 0.02387,
+    "significant": true
+  },
+  "E6_Topic_Relatable_ChiSquare": {
+    "metric": "relatable_comment_share",
+    "chi2": 32.42,
+    "dof": 5,
+    "p_value": 4.907e-06,
+    "share_by_topic": {
+      "Social Anxiety": 0.6523,
+      "Money Struggles": 0.5996,
+      "Family Pressure": 0.5825,
+      "Dating & Situationships": 0.5381,
+      "Self-Image & Comparison": 0.5341,
+      "College & Hostel Life": 0.5083
+    },
+    "significant": true
+  }
+}

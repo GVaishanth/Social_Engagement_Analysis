@@ -1,0 +1,91 @@
+topic,format,duration_bucket,time_slot,n_posts,expected_k,expected_engagement_rate,success_index
+Social Anxiety,Carousel,n/a,midday,1,0.02449,0.08993,1.144
+Family Pressure,Carousel,n/a,morning,3,0.02464,0.08763,1.141
+Money Struggles,Carousel,n/a,morning,2,0.02425,0.08819,1.13
+Social Anxiety,Carousel,n/a,evening,1,0.02407,0.08819,1.124
+Money Struggles,Reel,<=20s,evening,1,0.02377,0.09038,1.122
+Social Anxiety,Reel,<=20s,evening,2,0.02383,0.08874,1.118
+Money Struggles,Carousel,n/a,evening,1,0.02305,0.08902,1.093
+Social Anxiety,Reel,<=20s,morning,1,0.02283,0.08768,1.081
+Social Anxiety,Reel,21-30s,morning,1,0.02303,0.08534,1.079
+Social Anxiety,Reel,>30s,morning,1,0.02234,0.0899,1.072
+Social Anxiety,Reel,>30s,midday,1,0.02237,0.08854,1.068
+Money Struggles,Reel,<=20s,morning,2,0.02249,0.08684,1.066
+Self-Image & Comparison,Carousel,n/a,morning,1,0.02228,0.08618,1.057
+Dating & Situationships,Reel,21-30s,morning,2,0.02157,0.09006,1.047
+Family Pressure,Carousel,n/a,evening,1,0.02212,0.08464,1.046
+Money Struggles,Reel,>30s,midday,1,0.02203,0.0853,1.045
+Family Pressure,Reel,<=20s,evening,1,0.02176,0.08776,1.045
+Self-Image & Comparison,Carousel,n/a,midday,2,0.02155,0.08629,1.033
+Money Struggles,Reel,21-30s,midday,1,0.02119,0.0862,1.02
+Self-Image & Comparison,Reel,21-30s,midday,2,0.02143,0.08324,1.018
+Social Anxiety,Reel,21-30s,evening,1,0.02108,0.08429,1.01
+Dating & Situationships,Reel,21-30s,midday,1,0.02096,0.08526,1.009
+Family Pressure,Reel,21-30s,midday,3,0.02091,0.08483,1.006
+Self-Image & Comparison,Reel,<=20s,morning,1,0.02107,0.0827,1.004
+Dating & Situationships,Reel,>30s,evening,1,0.02086,0.08419,1.002
+Social Anxiety,Reel,<=20s,midday,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Carousel,n/a,evening,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Static Post,n/a,midday,0,0.02081,0.08416,1.0
+Family Pressure,Carousel,n/a,midday,0,0.02081,0.08416,1.0
+Dating & Situationships,Carousel,n/a,midday,0,0.02081,0.08416,1.0
+Dating & Situationships,Reel,>30s,midday,0,0.02081,0.08416,1.0
+Dating & Situationships,Reel,<=20s,morning,0,0.02081,0.08416,1.0
+Dating & Situationships,Reel,>30s,morning,0,0.02081,0.08416,1.0
+Dating & Situationships,Carousel,n/a,evening,0,0.02081,0.08416,1.0
+Social Anxiety,Carousel,n/a,morning,0,0.02081,0.08416,1.0
+Dating & Situationships,Reel,<=20s,evening,0,0.02081,0.08416,1.0
+Social Anxiety,Static Post,n/a,midday,0,0.02081,0.08416,1.0
+Social Anxiety,Static Post,n/a,morning,0,0.02081,0.08416,1.0
+Social Anxiety,Reel,>30s,evening,0,0.02081,0.08416,1.0
+Social Anxiety,Reel,21-30s,midday,0,0.02081,0.08416,1.0
+Dating & Situationships,Static Post,n/a,morning,0,0.02081,0.08416,1.0
+Dating & Situationships,Static Post,n/a,midday,0,0.02081,0.08416,1.0
+College & Hostel Life,Carousel,n/a,morning,0,0.02081,0.08416,1.0
+College & Hostel Life,Reel,<=20s,evening,0,0.02081,0.08416,1.0
+College & Hostel Life,Reel,21-30s,morning,0,0.02081,0.08416,1.0
+Family Pressure,Reel,21-30s,evening,0,0.02081,0.08416,1.0
+Family Pressure,Reel,>30s,midday,0,0.02081,0.08416,1.0
+Family Pressure,Reel,>30s,morning,0,0.02081,0.08416,1.0
+Family Pressure,Reel,<=20s,midday,0,0.02081,0.08416,1.0
+Family Pressure,Reel,<=20s,morning,0,0.02081,0.08416,1.0
+Money Struggles,Reel,>30s,evening,0,0.02081,0.08416,1.0
+Money Struggles,Reel,21-30s,morning,0,0.02081,0.08416,1.0
+Money Struggles,Reel,>30s,morning,0,0.02081,0.08416,1.0
+Money Struggles,Reel,<=20s,midday,0,0.02081,0.08416,1.0
+Money Struggles,Carousel,n/a,midday,0,0.02081,0.08416,1.0
+College & Hostel Life,Reel,>30s,evening,0,0.02081,0.08416,1.0
+College & Hostel Life,Reel,>30s,midday,0,0.02081,0.08416,1.0
+Money Struggles,Static Post,n/a,morning,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Reel,>30s,morning,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Reel,>30s,midday,1,0.02082,0.08416,1.0
+College & Hostel Life,Static Post,n/a,morning,0,0.02081,0.08416,1.0
+Family Pressure,Static Post,n/a,evening,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Reel,>30s,evening,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Reel,<=20s,midday,0,0.02081,0.08416,1.0
+Self-Image & Comparison,Reel,21-30s,morning,0,0.02081,0.08416,1.0
+Family Pressure,Static Post,n/a,morning,0,0.02081,0.08416,1.0
+Family Pressure,Reel,21-30s,morning,0,0.02081,0.08416,1.0
+College & Hostel Life,Static Post,n/a,midday,0,0.02081,0.08416,1.0
+College & Hostel Life,Carousel,n/a,evening,1,0.0206,0.08493,0.996
+College & Hostel Life,Carousel,n/a,midday,2,0.02045,0.08501,0.991
+Dating & Situationships,Reel,21-30s,evening,1,0.02014,0.08662,0.986
+Money Struggles,Reel,21-30s,evening,1,0.02053,0.08291,0.986
+Self-Image & Comparison,Reel,<=20s,evening,1,0.02024,0.08411,0.981
+Dating & Situationships,Reel,<=20s,midday,1,0.02008,0.08537,0.98
+Dating & Situationships,Carousel,n/a,morning,3,0.02012,0.08489,0.98
+College & Hostel Life,Reel,<=20s,midday,1,0.01987,0.08486,0.971
+Family Pressure,Reel,>30s,evening,1,0.02017,0.08209,0.971
+Self-Image & Comparison,Static Post,n/a,morning,1,0.01996,0.08277,0.967
+College & Hostel Life,Reel,>30s,morning,1,0.01972,0.0851,0.967
+College & Hostel Life,Reel,21-30s,midday,1,0.0197,0.08428,0.963
+Self-Image & Comparison,Reel,21-30s,evening,1,0.01978,0.08251,0.96
+College & Hostel Life,Reel,<=20s,morning,2,0.01923,0.08213,0.94
+College & Hostel Life,Reel,21-30s,evening,1,0.01907,0.08136,0.932
+Money Struggles,Static Post,n/a,evening,1,0.01889,0.07675,0.909
+Money Struggles,Static Post,n/a,midday,1,0.01811,0.07692,0.883
+Social Anxiety,Static Post,n/a,evening,2,0.01752,0.07651,0.862
+Self-Image & Comparison,Static Post,n/a,evening,1,0.01752,0.07505,0.857
+Family Pressure,Static Post,n/a,midday,2,0.01633,0.0775,0.826
+Dating & Situationships,Static Post,n/a,evening,2,0.01563,0.07366,0.788
+College & Hostel Life,Static Post,n/a,evening,2,0.01514,0.0716,0.765

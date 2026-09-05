@@ -1,0 +1,67 @@
+post_id,handle,topic,title,format,hook_type,duration_s,caption_style,posted_on,day,posting_hour,impressions,reach,likes,comments,shares,saves,retention_rate,profile_visits,followers_gained,breakout,viral_coefficient,virality_score,is_viral
+P001,@relatable.struggles,Social Anxiety,Rehearsing a conversation that was never going to happen,Reel,Text Hook,24,Storytelling,2025-06-01,0,22,37458,27685,1476,120,304,444,0.696,770,226,0,0.0219,63.58,0
+P002,@relatable.struggles,Dating & Situationships,"Situationship: 99% girlfriend, 0% definition",Reel,Text Hook,29,Listicle,2025-06-02,1,10,3502,2990,168,27,25,62,0.665,43,26,0,0.02351,68.25,0
+P003,@relatable.struggles,Money Struggles,My bank account after the 1st of the month,Reel,Visual Hook,17,Question,2025-06-04,3,9,3068,2658,161,15,40,48,0.676,34,29,0,0.02758,80.05,0
+P004,@relatable.struggles,College & Hostel Life,Attendance: a horror story in 3 acts,Reel,Text Hook,25,Storytelling,2025-06-05,4,13,7319,5742,322,69,41,54,0.766,80,23,0,0.01639,47.57,0
+P005,@relatable.struggles,Family Pressure,'Log kya kahenge' - the national question,Reel,Text Hook,27,Listicle,2025-06-06,5,12,15454,11507,634,90,121,227,0.634,190,93,0,0.0247,71.7,0
+P006,@relatable.struggles,Self-Image & Comparison,"Everyone's life is a highlight reel, mine is bloopers",Reel,Text Hook,26,Question,2025-06-08,7,12,9824,8007,393,66,119,87,0.675,156,57,0,0.02385,69.25,0
+P007,@relatable.struggles,Social Anxiety,Leaving the party without telling anyone: a documentary,Reel,Visual Hook,31,Listicle,2025-06-09,8,11,2147,1830,117,15,16,48,0.57,53,18,0,0.02694,78.2,0
+P008,@relatable.struggles,Dating & Situationships,Analyzing his 'gn' like it's ancient scripture,Reel,Visual Hook,22,Question,2025-06-11,10,10,8987,6706,486,54,96,58,0.645,166,51,0,0.02192,63.63,0
+P009,@relatable.struggles,Money Struggles,Price of a coffee vs. my self-worth,Carousel,Text Hook,,Storytelling,2025-06-12,11,22,5185,4422,243,51,45,119,,114,37,0,0.02978,86.46,0
+P010,@relatable.struggles,College & Hostel Life,Hostel food vs. my gut: the ongoing war,Carousel,Visual Hook,,Listicle,2025-06-13,12,20,9710,7085,387,42,39,150,,115,50,0,0.01999,58.02,0
+P011,@relatable.struggles,Family Pressure,Comparing me to Sharma ji's son since birth,Carousel,Text Hook,,Question,2025-06-15,14,10,1615,1287,50,12,19,29,,22,15,0,0.03108,90.22,0
+P012,@relatable.struggles,Self-Image & Comparison,Scrolling LinkedIn with chest pain,Reel,Visual Hook,20,Storytelling,2025-06-16,15,21,36639,26313,1493,120,237,359,0.635,480,173,0,0.01856,53.88,0
+P013,@relatable.struggles,Social Anxiety,The 3-hour spiral after 'seen' but no reply,Carousel,Text Hook,,Question,2025-06-17,16,18,2029,1725,88,18,32,35,,19,16,0,0.03386,98.28,0
+P014,@relatable.struggles,Dating & Situationships,"Red flags I ignored, a Pinterest board",Carousel,Text Hook,,Storytelling,2025-06-19,18,9,2042,1451,78,15,2,28,,18,7,0,0.01606,46.61,0
+P015,@relatable.struggles,Money Struggles,Budgeting: a fantasy genre,Reel,Text Hook,15,Listicle,2025-06-20,19,9,2855,2342,109,18,19,47,0.775,61,12,0,0.02246,65.2,0
+P016,@relatable.struggles,College & Hostel Life,"Studying everything the night before, a tradition",Reel,Visual Hook,46,Question,2025-06-22,21,10,1572,1365,83,15,12,10,0.401,31,4,0,0.01648,47.85,0
+P017,@relatable.struggles,Family Pressure,Career counseling by relatives who failed at theirs,Reel,Visual Hook,24,Storytelling,2025-06-23,22,12,9720,8258,458,63,83,107,0.738,129,38,0,0.02011,58.39,0
+P018,@relatable.struggles,Self-Image & Comparison,Body checking in every reflective surface,Carousel,Text Hook,,Listicle,2025-06-24,23,12,5569,4042,203,30,25,104,,45,38,0,0.02385,69.23,0
+P019,@relatable.struggles,Social Anxiety,Ordering food like you're defusing a bomb,Reel,Visual Hook,18,Storytelling,2025-06-26,25,20,37378,26381,1492,120,333,423,0.685,395,177,0,0.02361,68.53,0
+P020,@relatable.struggles,Dating & Situationships,'We should hang out sometime' - sometime never arrives,Static Post,Text Hook,,Listicle,2025-06-27,26,21,4729,3582,165,18,7,26,,86,10,0,0.00782,22.69,0
+P021,@relatable.struggles,Money Struggles,'It's just Rs.200' said 30 times a month,Carousel,Visual Hook,,Question,2025-06-28,27,9,1529,1237,52,18,9,34,,32,9,0,0.02813,81.67,0
+P022,@relatable.struggles,College & Hostel Life,The roommate who snores like a jet engine,Reel,Text Hook,22,Storytelling,2025-06-30,29,20,93150,66756,3614,120,521,616,0.621,1311,392,0,0.01388,40.29,0
+P023,@relatable.struggles,Family Pressure,I said 'no' once and became the villain,Static Post,Text Hook,,Listicle,2025-07-01,30,12,2766,2202,97,21,5,24,,38,5,0,0.01167,33.88,0
+P024,@relatable.struggles,Self-Image & Comparison,'Be yourself' - but not like that,Static Post,Text Hook,,Question,2025-07-02,31,22,3670,2661,97,4,9,17,,56,6,0,0.00767,22.25,0
+P025,@relatable.struggles,Social Anxiety,"'You've changed' - no, I just stopped performing",Static Post,Text Hook,,Listicle,2025-07-04,33,20,3680,2668,117,24,6,42,,60,11,0,0.01439,41.78,0
+P026,@relatable.struggles,Dating & Situationships,The ick is real and it arrived mid-date,Reel,Visual Hook,26,Question,2025-07-05,34,18,2866,2245,154,9,23,25,0.74,28,11,0,0.01813,52.63,0
+P027,@relatable.struggles,Money Struggles,Checking the bill with one eye closed,Reel,Visual Hook,21,Storytelling,2025-07-07,36,12,16402,13173,753,120,131,212,0.686,345,87,0,0.02233,64.83,0
+P028,@relatable.struggles,College & Hostel Life,Backlog season is a personality trait,Static Post,Text Hook,,Listicle,2025-07-08,37,19,5885,4436,173,18,17,20,,87,9,0,0.00775,22.51,0
+P029,@relatable.struggles,Family Pressure,The 'sab kuch shi ho jayega' parenting style,Carousel,Visual Hook,,Question,2025-07-09,38,21,10030,7389,339,75,92,130,,169,43,0,0.02605,75.63,0
+P030,@relatable.struggles,Self-Image & Comparison,The 2am glow-up I never start,Reel,Text Hook,23,Storytelling,2025-07-11,40,13,12550,8741,405,96,78,126,0.768,145,43,0,0.02087,60.58,0
+P031,@relatable.struggles,Social Anxiety,Phone anxiety: drafting the text for 40 minutes,Reel,Text Hook,27,Question,2025-07-12,41,9,2226,1935,94,15,38,25,0.813,21,19,0,0.02972,86.26,0
+P032,@relatable.struggles,Dating & Situationships,Being the therapist friend and the problem,Carousel,Visual Hook,,Storytelling,2025-07-13,42,11,1410,978,43,18,6,15,,13,4,0,0.02086,60.55,0
+P033,@relatable.struggles,Money Struggles,Rich until the UPI fails publicly,Static Post,Text Hook,,Listicle,2025-07-15,44,18,1078,807,26,6,4,8,,9,2,0,0.01314,38.13,0
+P034,@relatable.struggles,College & Hostel Life,'Tomorrow I start' - a lie told since 2019,Carousel,Text Hook,,Question,2025-07-16,45,14,6097,5170,268,24,39,74,,152,25,0,0.01752,50.87,0
+P035,@relatable.struggles,Family Pressure,Hiding marksheets like state secrets,Reel,Text Hook,21,Storytelling,2025-07-18,47,13,67671,57329,2987,120,543,777,0.65,1137,363,1,0.01823,52.92,0
+P036,@relatable.struggles,Self-Image & Comparison,My skin has more drama than my life,Carousel,Visual Hook,,Listicle,2025-07-19,48,11,7134,6007,279,66,38,171,,114,98,1,0.0267,77.51,0
+P037,@relatable.struggles,Social Anxiety,Small talk is my final boss,Reel,Visual Hook,52,Storytelling,2025-07-20,49,12,18692,14884,919,120,206,268,0.467,397,143,0,0.02706,78.56,0
+P038,@relatable.struggles,Dating & Situationships,Soft launching a person like a startup,Reel,Text Hook,20,Listicle,2025-07-22,51,14,6940,5574,320,63,33,80,0.701,117,27,0,0.01792,52.03,0
+P039,@relatable.struggles,Money Struggles,The math of 'save more' with nothing left to save,Carousel,Text Hook,,Question,2025-07-23,52,10,1762,1524,77,18,24,29,,26,18,0,0.03071,89.14,0
+P040,@relatable.struggles,College & Hostel Life,Mess food roulette: today's mystery curry,Reel,Visual Hook,16,Storytelling,2025-07-24,53,10,9090,6955,422,66,40,78,0.685,186,36,0,0.01533,44.49,0
+P041,@relatable.struggles,Family Pressure,"Being the family's free tech support, forever",Reel,Visual Hook,17,Listicle,2025-07-26,55,18,10044,8411,509,54,78,188,0.646,232,47,0,0.02461,71.44,0
+P042,@relatable.struggles,Self-Image & Comparison,"Unfollowing people to feel better, it never works",Reel,Text Hook,18,Question,2025-07-27,56,10,6272,4405,206,30,55,54,0.702,84,25,0,0.02188,63.53,0
+P043,@relatable.struggles,Social Anxiety,A survival guide for people who rehearse orders in their head,Carousel,Text Hook,,Listicle,2025-07-29,58,14,2558,1865,88,27,18,67,,44,17,0,0.03555,100.0,1
+P044,@relatable.struggles,Dating & Situationships,Left on read by someone who posts stories hourly,Reel,Visual Hook,24,Question,2025-07-30,59,14,60113,48664,2955,120,663,572,0.706,945,379,1,0.02142,62.17,0
+P045,@relatable.struggles,Money Struggles,"Adding to cart as self-care, never checking out",Reel,Text Hook,23,Storytelling,2025-07-31,60,21,206667,174270,9195,120,1779,2698,0.774,5149,1132,1,0.0197,57.2,0
+P046,@relatable.struggles,College & Hostel Life,"Group project: doing everything, sharing nothing",Carousel,Text Hook,,Listicle,2025-08-02,62,13,3044,2494,132,30,7,66,,71,14,0,0.02229,64.72,0
+P047,@relatable.struggles,Family Pressure,Love in this house is served with conditions,Carousel,Text Hook,,Question,2025-08-03,63,9,1618,1325,65,21,16,25,,30,9,0,0.02815,81.72,0
+P048,@relatable.struggles,Self-Image & Comparison,Gym day 1 vs. day 2: the sequel nobody makes,Reel,Visual Hook,21,Storytelling,2025-08-04,64,19,375054,318970,17618,120,2729,4268,0.696,4687,1377,1,0.0167,48.47,0
+P049,@relatable.struggles,Social Anxiety,When the teacher says 'pair up',Reel,Visual Hook,15,Question,2025-08-06,66,20,27023,21112,1193,120,414,415,0.722,463,252,0,0.03311,96.11,0
+P050,@relatable.struggles,Dating & Situationships,'You deserve better' - from the person making me settle,Carousel,Text Hook,,Storytelling,2025-08-07,67,10,1130,884,44,9,3,22,,18,5,0,0.02138,62.06,0
+P051,@relatable.struggles,Money Struggles,Salary day is a 24-hour festival,Reel,Visual Hook,19,Listicle,2025-08-08,68,18,4394,3072,168,42,32,93,0.66,77,34,0,0.03268,94.87,0
+P052,@relatable.struggles,College & Hostel Life,That one 8am class that ruined a whole GPA,Reel,Text Hook,20,Question,2025-08-10,70,10,3125,2238,98,18,25,18,0.633,35,15,0,0.01841,53.44,0
+P053,@relatable.struggles,Family Pressure,"'Beta, shaadi ka plan?' - I'm 22",Reel,Text Hook,44,Storytelling,2025-08-11,71,20,348832,250381,13051,120,2620,3203,0.509,5438,1199,1,0.01828,53.07,0
+P054,@relatable.struggles,Self-Image & Comparison,Smiling in photos I hate myself in,Carousel,Text Hook,,Listicle,2025-08-13,73,13,3238,2572,129,30,9,62,,70,15,0,0.02146,62.3,0
+P055,@relatable.struggles,Social Anxiety,Being called 'quiet' like it's an accusation,Static Post,Text Hook,,Storytelling,2025-08-14,74,22,4749,3376,129,39,14,18,,70,10,0,0.01081,31.39,0
+P056,@relatable.struggles,Dating & Situationships,Falling for the 'let's see where this goes',Static Post,Text Hook,,Listicle,2025-08-15,75,21,2519,2143,91,6,5,17,,39,5,0,0.00793,23.03,0
+P057,@relatable.struggles,Money Struggles,Splitting the bill like a courtroom drama,Reel,Text Hook,55,Question,2025-08-17,77,14,22270,17754,934,120,270,251,0.443,278,170,0,0.02572,74.66,0
+P058,@relatable.struggles,College & Hostel Life,Laundry day: day 23 of the same hoodie,Static Post,Visual Hook,,Storytelling,2025-08-18,78,21,7225,5472,243,24,14,15,,66,6,0,0.00552,16.02,0
+P059,@relatable.struggles,Family Pressure,Explaining my degree for the 47th time at dinner,Static Post,Text Hook,,Listicle,2025-08-19,79,12,2252,1744,96,6,3,14,,52,4,0,0.00757,21.97,0
+P060,@relatable.struggles,Self-Image & Comparison,Aesthetic is a cage I built myself,Static Post,Text Hook,,Question,2025-08-21,81,10,901,700,38,4,8,5,,13,4,0,0.01743,50.59,0
+P061,@relatable.struggles,Social Anxiety,The walk of shame from the doorbell back to your room,Reel,Text Hook,19,Listicle,2025-08-22,82,9,3218,2260,128,9,29,56,0.79,34,26,0,0.02889,83.88,0
+P062,@relatable.struggles,Dating & Situationships,Reading the chat at 2am with a forensic lens,Reel,Text Hook,48,Question,2025-08-24,84,22,54762,39514,2256,120,557,397,0.321,1140,209,0,0.02104,61.06,0
+P063,@relatable.struggles,Money Struggles,Financial plan: win a lottery I never bought,Static Post,Text Hook,,Storytelling,2025-08-25,85,12,2183,1884,74,9,9,12,,43,6,0,0.01003,29.12,0
+P064,@relatable.struggles,College & Hostel Life,Result day heartbeat > any workout,Reel,Visual Hook,18,Listicle,2025-08-26,86,13,9845,7602,447,54,44,116,0.626,179,49,0,0.01707,49.57,0
+P065,@relatable.struggles,Family Pressure,Growing up before I was ready,Carousel,Text Hook,,Question,2025-08-28,88,10,2059,1511,77,12,15,35,,15,12,0,0.02621,76.08,0
+P066,@relatable.struggles,Self-Image & Comparison,Losing myself to look 'put together',Reel,Text Hook,51,Storytelling,2025-08-29,89,12,10148,8174,412,93,82,101,0.43,101,58,0,0.02086,60.55,0
